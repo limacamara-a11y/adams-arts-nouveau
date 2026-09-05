@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adamarts.fr/sitemap.xml
